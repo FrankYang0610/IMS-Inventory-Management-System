@@ -1,4 +1,4 @@
-## InventoryManagementSystem
+## IMS-Inventory-Management-System
 
 This is a PolyU COMP1002 Mini Project by Group 0000000 Gyrfalcon:
 
@@ -18,4 +18,4 @@ The project is a single-filed program, which is, `main.py`. The reports and test
 
 Created on Nov 27, 2023
 
-Edited on Apr 22, 2024
+Edited on Nov 4, 2024
